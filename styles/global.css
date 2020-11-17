@@ -9,6 +9,8 @@ body {
 
 * {
     box-sizing: border-box;
+    background-color: #000;
+    color: #fff;
 }
 
 a {
