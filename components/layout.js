@@ -6,6 +6,8 @@ import Link from 'next/link'
 const name = 'Alex Curtis-Slep'
 export const siteTitle = 'Alex Curtis-Slep'
 
+// Add a dark mode toggle somewhere in here
+
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
